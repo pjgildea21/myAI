@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Hey, it's me the GOAT Lebron!`;
+export const CHAT_HEADER: string = `Hey, it's me the GOAT Lebron! Ask me any Excel Question, or anything about me!`;
 export const MESSAGE_PLACEHOLDER: string = `Ask me any Excel Question, or anything about me!`;
 export const FOOTER_MESSAGE: string = `Customized AI by PJ Gildea, Student @ UNC`;
 export const CLEAR_BUTTON_TEXT: string = `Clear Conversation`;
